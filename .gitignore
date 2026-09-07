@@ -1,0 +1,5 @@
+facemood-env/
+data/fer2013.csv
+__pycache__/
+.ipynb_checkpoints/
+*.h5
