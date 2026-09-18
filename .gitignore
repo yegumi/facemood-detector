@@ -1,5 +1,22 @@
+# Python / venv
 facemood-env/
-data/fer2013.csv
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
-*.h5
+
+# Datase
+data/fer2013.csv
+
+
+# Django
+db.sqlite3
+*.log
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
